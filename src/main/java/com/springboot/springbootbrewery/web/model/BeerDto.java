@@ -20,7 +20,7 @@ public class BeerDto {
     private String beerName;
 
     private BeerStyleEnum beerStyle;
-    private Long upc;
+    private long upc;
 
     private BigDecimal price;
 
