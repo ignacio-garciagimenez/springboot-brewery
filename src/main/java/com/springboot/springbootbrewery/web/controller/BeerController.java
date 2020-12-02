@@ -25,6 +25,7 @@ public class BeerController {
     public ResponseEntity createBeer(@RequestBody BeerDto beerDto) {
 
         //todo impl
+
         return new ResponseEntity(HttpStatus.CREATED);
     }
 
